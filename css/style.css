@@ -17,6 +17,12 @@ body {
 
 #time {
   font-size: 8rem; 
+  margin: 3rem;
+  
+}
+
+.timespace {
+  
 }
 
 h1 {
